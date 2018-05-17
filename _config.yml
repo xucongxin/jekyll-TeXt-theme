@@ -53,10 +53,10 @@ repository_tree: master
 ## => Navigation
 ##############################
 paths:
-  base: /
+  base: /all.html
   home: https://github.com/xucongxin/xucongxin.github.io/_posts/
-  all:  /all.html
-  rss:  /feed.xml
+  #all:  /all.html
+  #rss:  /feed.xml
 
 nav_lists:
   - titles:
