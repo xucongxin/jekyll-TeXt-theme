@@ -37,7 +37,7 @@ author:
   email: 301572706@qq.com # your Email address e.g. someone@site.com
   facebook: # your Facebook username
   twitter: # your Twitter username
-  github:白菜 # your GitHub username
+  github:310572706@qq.com # your GitHub username
   linkedin: # your Linkedin username
   googleplus: # your Google+ username
   weibo: # your Weibo username
@@ -53,8 +53,8 @@ repository_tree: master
 ## => Navigation
 ##############################
 paths:
-  base: /
-  home: /
+  base: /all.html
+  home: /all.html
   all:  /all.html
   rss:  /feed.xml
 
