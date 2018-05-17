@@ -55,8 +55,8 @@ repository_tree: master
 paths:
   base: /
   home: https://github.com/xucongxin/xucongxin.github.io/
-  all:  /all.html
-  rss:  /feed.xml
+  #all:  /all.html
+  #rss:  /feed.xml
 
 nav_lists:
   - titles:
